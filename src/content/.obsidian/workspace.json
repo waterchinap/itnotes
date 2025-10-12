@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/All/Obsidian/插入frontmatter.md",
+                "file": "docs/All/GFW/旁路网关模式下git问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "插入frontmatter"
+              "title": "旁路网关模式下git问题"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "e50e85db237b9783",
   "lastOpenFiles": [
-    "docs/All/Obsidian/实现自动插入模板.md",
     "docs/All/Obsidian/插入frontmatter.md",
+    "docs/All/GFW/旁路网关模式下git问题.md",
+    "docs/All/Obsidian/实现自动插入模板.md",
     "_temp/文章.md",
     "docs/All/GFW/虚拟机安装OP.md",
     "docs/All/Obsidian",
